@@ -7,9 +7,9 @@ The repository contains of software to perform the following tasks:
 
 ## Software & Libraries:
 
-Python
-Keras
-Flask API
+- Python
+- Keras
+- Flask API
 
 ## Machine:
 

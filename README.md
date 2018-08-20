@@ -19,6 +19,9 @@ Tested on Titan V GPU Machine.
 
 - The **mnist_classifier_main.py** script fetches the MNIST training and testing data.
 - The input goes through 3 layers of convolution before passing through 2 fully connected layers and finally the output layer.
+
+![Alt text](images/arch.png?raw=true "Title")
+
 - The model is finally saved to disk for future references.
 
 ## How to run training?
